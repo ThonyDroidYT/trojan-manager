@@ -27,7 +27,7 @@ The arguments will be passed onto the command interpreter. The first command lin
 ### Installation
 
 ```bash
-git clone https://github.com/trojan-gfw/trojan-manager.git
+git clone https://github.com/ThonyDroidYT/trojan-manager.git
 cd trojan-manager  # Enter directory
 pip3 install -r requirements.txt  # Install python packages
 ```
